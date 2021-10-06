@@ -6,12 +6,19 @@ function App() {
   return (
     <Router>
       <Switch>
+
+        //home route
         <Route exact path="/">
-          <Notes />
+          <Notes /> 
         </Route>
+
+        //create route 
         <Route path="/create">
-          <Create />
+          <Create /> 
         </Route>
+
+
+
       </Switch>
     </Router>
   );

@@ -1,0 +1,4 @@
+1)index e app dea suru korte hoi 
+2) sob kisu amake App.js e import korte hobe
+3) sob component o amak export kore dete hobe
+4)
